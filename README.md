@@ -1,5 +1,5 @@
 # Machine-Learning---Classification-and-Estimation-Espectral-Signature
-This repository contains the code for classify and stimate the espectral signatures of different leaves.
+This repository contains the code for classify and estimate the espectral signatures of different leaves.
 
 
 Repository has the following files:
